@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, R, Machine Learing, Statistical Modelling, SQL, Tableau, HTML5, Javascript, XML, AWS, MS Azure
+percentage: 60, 50, 70, 70, 80, 70, 60, 50, 60, 40, 40

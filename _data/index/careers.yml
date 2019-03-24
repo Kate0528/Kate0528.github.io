@@ -1,0 +1,58 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University of Washington
+    #i18n: company_a
+  desc:
+    detail: I worked at the Business Intelligence & IT Dept in UW Facilities. I'm responsible for the collection, analysis and presentation of business data to improve academic space usage.
+    #i18n: company_a_desc
+  date:
+    detail: Mar. 2019
+    #i18n: company_a_date
+  job:
+    detail: Data Analyst Intern
+    #i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Washington
+    #i18n: company_b
+  desc:
+    detail: I made seven space metrics dashboards in Tableau to model current space usage by using SQL Server Management Studio (SSMS).  I served as project consultant to Capital & Space Management team to construct logistic growth model to forecast enrollment number for the Provost’s Space Report project. I collated financial and enrollment records from the Enterprise Data Warehouse, a central repository of 5.2 billion records; extrapolated enrollment trends through next five years.
+    #i18n: company_b_desc
+  date:
+    detail: Jul, 2018
+    #i18n: company_b_date
+  job:
+    detail: Business Analyst Intern
+    #i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Accenture Consulting, Beijing
+    #i18n: company_a
+  desc:
+    detail: I worked at Accenture Consulting in Beijing. I assisted to build knowledge graph demos for digital power plants; used MS SQL Server to build schema and encode equipment information (340+ devices) into the equipment knowledge base. I collaborated with Accenture energy consulting team to improve electromechanical generators’ KPIs in Pu’an Power Plants. I also studied main functions, key values, features and benefits of industrial services, software and analytic models for the Predix Industrial IoT Platform in GE, and applied these services and analytic models in digital plants for Sinopec Group in China.
+
+    #i18n: company_a_desc
+  date:
+    detail: Mar. 2019
+    #i18n: company_a_date
+  job:
+    detail: Consulting Analyst Intern
+    #i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Deloitte China
+    #i18n: company_a
+  desc:
+    detail: I was responsible for daily operations, maintenance, and solutions delivery of management information systems such as O2E, SAP, MIP, Travel & Expense, ESS, etc. I provided system training, client support and technical issue resolution. I carried out the database disaster recovery system test on SAP
+    #i18n: company_a_desc
+  date:
+    detail: Jul. 2016
+    #i18n: company_a_date
+  job:
+    detail: IT Services Intern
+    #i18n: company_a_job
+  icon: fa-plus-square
