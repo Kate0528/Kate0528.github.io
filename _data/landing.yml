@@ -24,7 +24,7 @@
   tpl: career.html
   css: timeline
   
-- id: blog
+- id: resume
   i18n: nav.blog
   name: resume
   tpl: blog.html
