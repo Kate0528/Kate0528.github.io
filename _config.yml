@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
+title: Yufei Li
 description: Yufei's blog,use Jekyll and github pages.
 keywords: Yufei,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Hello, I'm second-year graudate student at University of Washington. I'm a data enthusiast with two years experience in data science and business intelligence. My professional skills include Data Warehousing, Data Mining, Statistical Modeling and Interactive Data Visualization.
+        As everyone said, "data is the new oil". I'm always curious about data and hope to utilize my skills to extract values from messy data to add values to the businesses. Please contact me if you are also fascinated with data and have some interesting projects to work on.# Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
