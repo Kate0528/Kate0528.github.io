@@ -25,7 +25,7 @@
   css: timeline
   
 - id: resume
-  i18n: nav.blog
+  i18n: nav.resume
   name: resume
   tpl: blog.html
   css: testimonials navy-section
