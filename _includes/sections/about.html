@@ -3,7 +3,7 @@
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1><span data-i18n="about_me.about_me">About Me</span></h1>
-            <!-- <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p> -->
+            <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
         </div>
     </div>
     <div class="row">
@@ -32,14 +32,14 @@
                     {% if site.author.facebook_username %}
                     <li><a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
                     {% endif %}
-                    {% if site.author.twitter_username %}
+                    <!--{% if site.author.twitter_username %}
                     <li><a href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
-                    {% endif %}
+                    {% endif %}-->
                     {% if site.author.email %}
                     <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                     {% endif %}
-                    <li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
-                    {% if site.author.cv %}
+                    <!--<li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
+                    {% if site.author.cv %}-->
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
                 </ul>
