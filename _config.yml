@@ -30,8 +30,7 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
   desc: Hello, I'm second-year graudate student at University of Washington. I'm a data enthusiast with two years experience in data science and business intelligence. My professional skills include Data Warehousing, Data Mining, Statistical Modeling and Interactive Data Visualization.
-        As everyone said, "data is the new oil". I'm always curious about data and hope to utilize my skills to extract values from messy data to add values to the businesses. Please contact me if you are also fascinated with data and have some interesting projects to work on.
-
+        As Brian Krzanich said, "data is the new oil". I'm always curious about data and hope to utilize my skills to extract values from messy data to add values to the businesses. Please contact me if you have an intereting position in your team that needs talents like me.
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: jalpc
