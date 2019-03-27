@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Cat Adoption Website
+  i18n: XML
+  img: /static/assets/img/landing/Cat_Adoption.jpg
+  url: https://kate0528.github.io/Cat-Adoption-Site/
+  desc: This is a my information architecture coursework project. I defined the XML schema and org structures including cat breed hierarchies, alphabetical indexes, age sequences and color associations, then I finalized the pages with HTML and CSS. 
+
 - name: Business Intelligence Solution Design on Sales Data
   i18n: Tableau, SSMS, SSIS, Visio
   url: https://kate0528.github.io/Business-Intelligence-Solution-Design-on-Sales-Data/
@@ -12,18 +18,13 @@
   img: /static/assets/img/landing/Hot_Spots_911.jpg
   url: https://kate0528.github.io/Hot-Spot-Analysis-on-Seattle-911-Calls-Data/
   desc: This project used K-means and DBSCAN clustering methods to identify the hot spots locations of Seattle 911 calls.
-  
+
 - name: Twitter Sentiment Analysis
   i18n: Python
   img: /static/assets/img/landing/Twitter_Sentiment.jpg
   url: https://kate0528.github.io/Twitter-Sentiment-Analysis/
   desc: I fetched real-time data from Twitter API, and calculated sentiment score for each tweet. Other interesting findings include the top 10 hashtags and the happiest U.S. state based on user location data.
 
-- name: Cat Adoption Website
-  i18n: XML
-  img: /static/assets/img/landing/Cat_Adoption.jpg
-  url: https://kate0528.github.io/Cat-Adoption-Site/
-  desc: This is a my information architecture coursework project. I defined the XML schema and org structures including cat breed hierarchies, alphabetical indexes, age sequences and color associations, then I finalized the pages with HTML and CSS. 
 
 
 
