@@ -32,7 +32,7 @@
     detail: Consulting Analyst Intern
     #i18n: company_a
   desc:
-    detail: I worked at Accenture Consulting in Beijing. I assisted to build knowledge graph demos for digital power plants; used MS SQL Server to build schema and encode equipment information (340+ devices) into the equipment knowledge base. I collaborated with Accenture energy consulting team to improve electromechanical generators’ KPIs in Pu’an Power Plants. I also studied main functions, key values, features and benefits of industrial services, software and analytic models for the Predix Industrial IoT Platform in GE, and applied these services and analytic models in digital plants for Sinopec Group in China.
+    detail: I worked at Accenture Consulting in Beijing. I assisted to build knowledge graph demos for digital power plants; used Excel to build schema and encode equipment information (340+ devices) into the equipment knowledge base. I collaborated with Accenture energy consulting team to improve electromechanical generators’ KPIs in Pu’an Power Plants. I also studied main functions, key values, features and benefits of industrial services, software and analytic models for the Predix Industrial IoT Platform in GE, and applied these services and analytic models in digital plants for Sinopec Group in China.
 
     #i18n: company_a_desc
   date:
